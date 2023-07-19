@@ -2,5 +2,5 @@
 
 ## Films
 
-- Movies I've seen: 4 films
+- Movies I've seen: 5 films
 - Last movie I saw: Asteroid City
