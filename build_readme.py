@@ -1,22 +1,50 @@
 import pandas as pd
+import plotly.graph_objects as go
+
+
+def generate_film_maps(df):
+    countries = df["country"].value_counts().reset_index()
+    fig = go.Figure(
+        data=go.Choropleth(
+            locations=countries["country"], z=countries["count"], colorscale="Burg"
+        )
+    )
+
+    for theme in ["plotly", "plotly_dark"]:
+        fig.update_layout(
+            margin={"r": 0, "t": 0, "l": 0, "b": 0},
+            geo=dict(showcoastlines=True, projection_type="natural earth"),
+            template=theme,
+        )
+        fig.update_traces(showscale=False)
+        fig.write_image(f"figures/films_map_{theme}.png", width=1600, height=850)
 
 
 def main():
     df = pd.read_csv("data/films.csv")
+    generate_film_maps(df)
     last_movie = df.sort_values("seen_on").iloc[-1]["title"]
 
-    # Create README.md file
-    readme = open("README.md", "w")
-    readme.write("# My Collections\n\n")
-    readme.write("## Films\n\n")
-    readme.write(f"- Movies I've seen: {df.shape[0]}\n")
-    readme.write(f"- Last movie I saw: {last_movie}\n")
+    md = ""  # Markdown file string
+    md += "# My Collections\n\n"
+    md += "## Movies\n\n"
+    md += f"- Movies I've seen: {df.shape[0]}\n"
+    md += f"- Last movie I saw: {last_movie}\n\n"
+    md += "### Ranked\n"
     for rating in ["Favorite", "Great", "Good"]:
-        readme.write(f"\n### {rating}\n\n")
+        md += f"\n#### {rating}\n\n"
         subdf = df.query(f"rating == '{rating}'").sort_values(by="director")
-        readme.write(subdf[["director", "title", "year"]].to_markdown(index=False))
-        readme.write("\n")
-    readme.close()
+        md += subdf[["director", "title", "year", "country"]].to_markdown(index=False)
+        md += "\n"
+    md += "### Movies by country\n\n"
+    md += "<picture>\n"
+    md += """  <source media="(prefers-color-scheme: dark)" srcset="figures/films_map_plotly_dark.png">\n"""
+    md += """  <source media="(prefers-color-scheme: light)" srcset="figures/films_map_plotly.png">\n"""
+    md += """  <img alt="Frequency of films by country choropleth map" src="figures/films_map_plotly.png">\n"""
+    md += "</picture>\n"
+
+    with open("README.md", "w") as readme:
+        readme.write(md)
 
 
 if __name__ == "__main__":
