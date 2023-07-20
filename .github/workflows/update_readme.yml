@@ -23,5 +23,5 @@ jobs:
           git config user.email github-actions@github.com
           git diff --name-only
           git add .
-          git commit -m "Update README.md"
+          git diff --staged --quiet || git commit -m "Update README.md"
           git push
