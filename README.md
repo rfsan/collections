@@ -27,7 +27,7 @@
 
 | director                      | title                           |   year | country   |
 |:------------------------------|:--------------------------------|-------:|:----------|
-| Edward Berger                 | All Quiet on the Western Front  |   2022 | nan       |
+| Edward Berger                 | All Quiet on the Western Front  |   2022 | DEU       |
 | Ethan Coen, Joel Coen         | No Country for Old Men          |   2007 | nan       |
 | Florian Zeller                | The Father                      |   2020 | nan       |
 | George Miller                 | Mad Max: Fury Road              |   2015 | nan       |
