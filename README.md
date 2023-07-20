@@ -34,7 +34,7 @@
 | James Ward Byrkit             | Coherence                       |   2013 | nan       |
 | Joel Crawford, Januel Mercado | Puss in Boots: The Last Wish    |   2022 | nan       |
 | Jordan Peele                  | Nope                            |   2022 | nan       |
-| Julia Ducournau               | Titane                          |   2021 | nan       |
+| Julia Ducournau               | Titane                          |   2021 | FRA       |
 | Junta Yamaguchi               | Beyond the Infinite Two Minutes |   2020 | nan       |
 | Martin Scorsese               | The Wolf of Wall Street         |   2013 | nan       |
 | Park Chan-wook                | Decision to Leave               |   2022 | nan       |
