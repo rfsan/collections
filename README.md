@@ -2,8 +2,8 @@
 
 ## Movies
 
-- Movies I've seen: 47
-- Last movie I saw: Asteroid City
+- Movies I've seen: 48
+- Last movie I saw: Snowden
 
 ### Ranked
 
