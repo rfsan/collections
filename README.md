@@ -2,8 +2,8 @@
 
 ## Movies
 
-- Movies I've seen: 48
-- Last movie I saw: Snowden
+- Movies I've seen: 49
+- Last movie I saw: Oppenheimer
 
 ### Ranked
 
