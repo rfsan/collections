@@ -1,6 +1,7 @@
 title,director,year,genres,seen_on,rating,country,comments,tags
-Oppenheimer,Christopher Nolan,2023,"biography,science,ww2,drama",2023-07-21,Not for me,USA,,
-Snowden,Oliver Stone,2016,"biography,hacker,drama",2023-07-20,Not for me,USA,,
+Creep,Patrick Brice,2014,"suspense",2023-07-22,Good,USA,,
+Oppenheimer,Christopher Nolan,2023,"bio:scientist,science,ww2,drama",2023-07-21,Not for me,USA,,great-soundtrack
+Snowden,Oliver Stone,2016,"bio,hacker,drama",2023-07-20,Not for me,USA,,
 Asteroid City,Wes Anderson,2023,drama,2023-07-15,Not for me,USA,,
 Elemental,Peter Sohn,2023,"animation,comedy,drama",2023-07-14,Good,USA,,
 "Argentina, 1985",Santiago Mitre,2022,"drama,history",2023-07-13,Good,ARG,,
