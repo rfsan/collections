@@ -2,8 +2,8 @@
 
 ## Movies
 
-- Movies I've seen: 49
-- Last movie I saw: Oppenheimer
+- Movies I've seen: 50
+- Last movie I saw: Creep
 
 ### Ranked
 
@@ -38,6 +38,7 @@
 | Junta Yamaguchi               | Beyond the Infinite Two Minutes |   2020 | JPN       |
 | Martin Scorsese               | The Wolf of Wall Street         |   2013 | USA       |
 | Park Chan-wook                | Decision to Leave               |   2022 | KOR       |
+| Patrick Brice                 | Creep                           |   2014 | USA       |
 | Peter Sohn                    | Elemental                       |   2023 | USA       |
 | Quentin Tarantino             | Reservoir Dogs                  |   1992 | USA       |
 | Ridley Scott                  | Gladiator                       |   2000 | USA       |
