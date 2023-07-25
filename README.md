@@ -2,8 +2,8 @@
 
 ## Movies
 
-- Movies I've seen: 50
-- Last movie I saw: Creep
+- Movies I've seen: 51
+- Last movie I saw: Silencio en el paraíso
 
 ### Ranked
 
