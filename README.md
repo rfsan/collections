@@ -49,7 +49,8 @@
 | Spike Jonze                   | Her                             |   2013 | USA       |
 
 <details>
-<summary>### Not for me (28 movies)</summary>
+<summary>Not for me (28 movies)</summary>
+
 | director                           | title                                             |   year | country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
 | Brad Bird                          | Ratatouille                                       |   2007 | USA       |
