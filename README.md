@@ -2,8 +2,8 @@
 
 ## Movies
 
-- Movies I've seen: 51
-- Last movie I saw: Silencio en el paraíso
+- Movies I've seen: 52
+- Last movie I saw: Los iniciados
 
 ### Ranked
 
