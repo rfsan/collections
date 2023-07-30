@@ -71,7 +71,7 @@ def main():
         dfsub = df.query(f"rating == '{rating}'").sort_values(by="director")[md_cols]
         if rating == "Not for me":
             md += "\n<details>\n"
-            md += f"<summary>### Not for me ({dfsub.shape[0]} movies)</summary>\n"
+            md += f"<summary>Not for me ({dfsub.shape[0]} movies)</summary>\n\n"
             md += dfsub.to_markdown(index=False)
             md += "\n</details>\n"
         else:
