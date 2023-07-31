@@ -11,14 +11,14 @@
 
 #### Favorite (2 movies)
 
-| director        | title    |   year | country   |
+| Director        | Title    |   Year | Country   |
 |:----------------|:---------|-------:|:----------|
 | Damien Chazelle | Whiplash |   2014 | USA       |
 | Park Chan-wook  | Oldboy   |   2003 | KOR       |
 
 #### Great (4 movies)
 
-| director             | title            |   year | country   |
+| Director             | Title            |   Year | Country   |
 |:---------------------|:-----------------|-------:|:----------|
 | Boon Joon Ho         | Parasite         |   2019 | KOR       |
 | Damien Chazelle      | La la land       |   2016 | USA       |
@@ -27,7 +27,7 @@
 
 #### Good (18 movies)
 
-| director                      | title                           |   year | country   |
+| Director                      | Title                           |   Year | Country   |
 |:------------------------------|:--------------------------------|-------:|:----------|
 | Edward Berger                 | All Quiet on the Western Front  |   2022 | DEU       |
 | Ethan Coen, Joel Coen         | No Country for Old Men          |   2007 | USA       |
@@ -51,7 +51,7 @@
 <details>
 <summary>Not for me (28 movies)</summary>
 
-| director                           | title                                             |   year | country   |
+| Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
 | Brad Bird                          | Ratatouille                                       |   2007 | USA       |
 | Brandon Cronenberg                 | Infinity Pool                                     |   2023 | CAN       |
@@ -89,4 +89,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="figures/films_map_plotly_dark.png">
   <source media="(prefers-color-scheme: light)" srcset="figures/films_map_plotly.png">
   <img alt="Frequency of films by country choropleth map" src="figures/films_map_plotly.png">
+</picture>
+
+### Count of movies I've seen per month
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="figures/movies_by_month_plotly_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="figures/movies_by_month_plotly_white.png">
+  <img alt="Count of movies I've seen per month" src="figures/movies_by_month_plotly_white.png">
 </picture>
