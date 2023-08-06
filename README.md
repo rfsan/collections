@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 52
-- Movies in my collection: 24 (46.2%)
-- Last movie I saw: Los iniciados - Juan Felipe Orozco
+- Movies I've seen: 54
+- Movies in my collection: 25 (46.3%)
+- Last movie I saw: The First Slam Dunk - Takehiko Inoue
 - I've seen movies from 14 countries
 
 ### Ranked
@@ -25,7 +25,7 @@
 | Damián David Szifron | Relatos Salvajes |   2014 | ARG       |
 | Denis Villeneuve     | Arrival          |   2016 | USA       |
 
-#### Good (18 movies)
+#### Good (19 movies)
 
 | Director                      | Title                           |   Year | Country   |
 |:------------------------------|:--------------------------------|-------:|:----------|
@@ -47,9 +47,10 @@
 | Robert Zemeckis               | Back to the Future              |   1985 | USA       |
 | Santiago Mitre                | Argentina, 1985                 |   2022 | ARG       |
 | Spike Jonze                   | Her                             |   2013 | USA       |
+| Takehiko Inoue                | The First Slam Dunk             |   2022 | JPN       |
 
 <details>
-<summary>Not for me (28 movies)</summary>
+<summary>Not for me (29 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
@@ -64,6 +65,7 @@
 | Denis Villeneuve                   | Sicario                                           |   2015 | USA       |
 | Edgar Wright                       | Shaun of the Dead                                 |   2004 | GBR       |
 | Fabrice Éboué                      | Some Like It Rare                                 |   2021 | FRA       |
+| Greta Gerwig                       | Barbie                                            |   2023 | USA       |
 | Guillermo del Toro, Mark Gustafson | Guillermo del Toro's Pinocchio                    |   2022 | USA       |
 | Hideo Nakata                       | Ringu                                             |   1998 | JPN       |
 | Jalmari Helander                   | Sisu                                              |   2022 | FIN       |
@@ -77,8 +79,8 @@
 | Mike Newell                        | Harry Potter and the Goblet of Fire               |   2005 | GBR       |
 | Oliver Stone                       | Snowden                                           |   2016 | USA       |
 | Peter Jackson                      | The Lord of the Rings: The Fellowship of the Ring |   2001 | NZL       |
-| Ridley Scott                       | The Martian                                       |   2015 | USA       |
 | Ridley Scott                       | Alien                                             |   1979 | USA       |
+| Ridley Scott                       | The Martian                                       |   2015 | USA       |
 | Ruben Östlund                      | Triangle of Sadness                               |   2022 | SWE       |
 | Wes Anderson                       | Asteroid City                                     |   2023 | USA       |
 </details>
