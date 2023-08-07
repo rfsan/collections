@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 54
-- Movies in my collection: 25 (46.3%)
-- Last movie I saw: The First Slam Dunk - Takehiko Inoue
+- Movies I've seen: 56
+- Movies in my collection: 25 (44.6%)
+- Last movie I saw: Battle Royale - Kinji Fukasaku
 - I've seen movies from 14 countries
 
 ### Ranked
@@ -50,7 +50,7 @@
 | Takehiko Inoue                | The First Slam Dunk             |   2022 | JPN       |
 
 <details>
-<summary>Not for me (29 movies)</summary>
+<summary>Not for me (31 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
@@ -58,6 +58,7 @@
 | Brandon Cronenberg                 | Infinity Pool                                     |   2023 | CAN       |
 | Brandon Cronenberg                 | Possessor                                         |   2020 | CAN       |
 | Carlota Pereda                     | Cerdita                                           |   2022 | ESP       |
+| Chris Buck, Jennifer Lee           | Frozen                                            |   2013 | USA       |
 | Christopher Nolan                  | Oppenheimer                                       |   2023 | USA       |
 | Colbert García                     | Silencio en el paraíso                            |   2011 | COL       |
 | Darren Aronofsky                   | The Whale                                         |   2022 | USA       |
@@ -71,16 +72,17 @@
 | Jalmari Helander                   | Sisu                                              |   2022 | FIN       |
 | James Cameron                      | The Terminator                                    |   1984 | USA       |
 | James Mangold                      | Indiana Jones and the Dial of Destiny             |   2023 | USA       |
-| John Krasinski                     | A Quiet Place                                     |   2018 | USA       |
 | John Krasinski                     | A Quiet Place Part II                             |   2020 | USA       |
+| John Krasinski                     | A Quiet Place                                     |   2018 | USA       |
 | Juan Felipe Orozco                 | Los iniciados                                     |   2023 | COL       |
+| Kinji Fukasaku                     | Battle Royale                                     |   2000 | JPN       |
 | Lee Cronin                         | Evil Dead Rise                                    |   2023 | USA       |
 | Luca Guadagnino                    | Bones and All                                     |   2022 | USA       |
 | Mike Newell                        | Harry Potter and the Goblet of Fire               |   2005 | GBR       |
 | Oliver Stone                       | Snowden                                           |   2016 | USA       |
 | Peter Jackson                      | The Lord of the Rings: The Fellowship of the Ring |   2001 | NZL       |
-| Ridley Scott                       | Alien                                             |   1979 | USA       |
 | Ridley Scott                       | The Martian                                       |   2015 | USA       |
+| Ridley Scott                       | Alien                                             |   1979 | USA       |
 | Ruben Östlund                      | Triangle of Sadness                               |   2022 | SWE       |
 | Wes Anderson                       | Asteroid City                                     |   2023 | USA       |
 </details>
