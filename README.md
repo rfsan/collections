@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 56
-- Movies in my collection: 25 (44.6%)
-- Last movie I saw: Battle Royale - Kinji Fukasaku
+- Movies I've seen: 60
+- Movies in my collection: 26 (43.3%)
+- Last movie I saw: Harry Potter and the Half-Blood Prince - David Yates
 - I've seen movies from 14 countries
 
 ### Ranked
@@ -25,7 +25,7 @@
 | Damián David Szifron | Relatos Salvajes |   2014 | ARG       |
 | Denis Villeneuve     | Arrival          |   2016 | USA       |
 
-#### Good (19 movies)
+#### Good (20 movies)
 
 | Director                      | Title                           |   Year | Country   |
 |:------------------------------|:--------------------------------|-------:|:----------|
@@ -43,6 +43,7 @@
 | Patrick Brice                 | Creep                           |   2014 | USA       |
 | Peter Sohn                    | Elemental                       |   2023 | USA       |
 | Quentin Tarantino             | Reservoir Dogs                  |   1992 | USA       |
+| Quentin Tarantino             | The Hateful Eight               |   2015 | USA       |
 | Ridley Scott                  | Gladiator                       |   2000 | USA       |
 | Robert Zemeckis               | Back to the Future              |   1985 | USA       |
 | Santiago Mitre                | Argentina, 1985                 |   2022 | ARG       |
@@ -50,10 +51,11 @@
 | Takehiko Inoue                | The First Slam Dunk             |   2022 | JPN       |
 
 <details>
-<summary>Not for me (31 movies)</summary>
+<summary>Not for me (34 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
+| Alfonso Cuarón                     | Harry Potter and the Prisoner of Azkaban          |   2004 | GBR       |
 | Brad Bird                          | Ratatouille                                       |   2007 | USA       |
 | Brandon Cronenberg                 | Infinity Pool                                     |   2023 | CAN       |
 | Brandon Cronenberg                 | Possessor                                         |   2020 | CAN       |
@@ -62,6 +64,8 @@
 | Christopher Nolan                  | Oppenheimer                                       |   2023 | USA       |
 | Colbert García                     | Silencio en el paraíso                            |   2011 | COL       |
 | Darren Aronofsky                   | The Whale                                         |   2022 | USA       |
+| David Yates                        | Harry Potter and the Half-Blood Prince            |   2009 | GBR       |
+| David Yates                        | Harry Potter and the Order of the Phoenix         |   2007 | GBR       |
 | Dean Fleischer-Camp                | Marcel the Shell with Shoes On                    |   2021 | USA       |
 | Denis Villeneuve                   | Sicario                                           |   2015 | USA       |
 | Edgar Wright                       | Shaun of the Dead                                 |   2004 | GBR       |
@@ -81,8 +85,8 @@
 | Mike Newell                        | Harry Potter and the Goblet of Fire               |   2005 | GBR       |
 | Oliver Stone                       | Snowden                                           |   2016 | USA       |
 | Peter Jackson                      | The Lord of the Rings: The Fellowship of the Ring |   2001 | NZL       |
-| Ridley Scott                       | The Martian                                       |   2015 | USA       |
 | Ridley Scott                       | Alien                                             |   1979 | USA       |
+| Ridley Scott                       | The Martian                                       |   2015 | USA       |
 | Ruben Östlund                      | Triangle of Sadness                               |   2022 | SWE       |
 | Wes Anderson                       | Asteroid City                                     |   2023 | USA       |
 </details>
