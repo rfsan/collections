@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 62
-- Movies in my collection: 28 (45.2%)
-- Last movie I saw: The Unbearable Weight of Massive Talent - Tom Gormican
+- Movies I've seen: 63
+- Movies in my collection: 29 (46.0%)
+- Last movie I saw: Tesis - Alejandro Amenábar
 - I've seen movies from 14 countries
 
 ### Ranked
@@ -26,10 +26,11 @@
 | Denis Villeneuve     | Arrival                               |   2016 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (21 movies)
+#### Good (22 movies)
 
 | Director                      | Title                                   |   Year | Country   |
 |:------------------------------|:----------------------------------------|-------:|:----------|
+| Alejandro Amenábar            | Tesis                                   |   1996 | ESP       |
 | Edward Berger                 | All Quiet on the Western Front          |   2022 | DEU       |
 | Ethan Coen, Joel Coen         | No Country for Old Men                  |   2007 | USA       |
 | Florian Zeller                | The Father                              |   2020 | GBR       |
