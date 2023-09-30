@@ -2,10 +2,10 @@
 
 ## Movies
 
-- Movies I've seen: 63
-- Movies in my collection: 29 (46.0%)
-- Last movie I saw: Tesis - Alejandro Amenábar
-- I've seen movies from 14 countries
+- Movies I've seen: 65
+- Movies in my collection: 31 (47.7%)
+- Last movie I saw: X - Ti West
+- I've seen movies from 15 countries
 
 ### Ranked
 
@@ -26,7 +26,7 @@
 | Denis Villeneuve     | Arrival                               |   2016 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (22 movies)
+#### Good (24 movies)
 
 | Director                      | Title                                   |   Year | Country   |
 |:------------------------------|:----------------------------------------|-------:|:----------|
@@ -40,6 +40,7 @@
 | Jordan Peele                  | Nope                                    |   2022 | USA       |
 | Julia Ducournau               | Titane                                  |   2021 | FRA       |
 | Junta Yamaguchi               | Beyond the Infinite Two Minutes         |   2020 | JPN       |
+| Lars von Trier                | The House That Jack Built               |   2018 | DNK       |
 | Martin Scorsese               | The Wolf of Wall Street                 |   2013 | USA       |
 | Park Chan-wook                | Decision to Leave                       |   2022 | KOR       |
 | Patrick Brice                 | Creep                                   |   2014 | USA       |
@@ -51,6 +52,7 @@
 | Santiago Mitre                | Argentina, 1985                         |   2022 | ARG       |
 | Spike Jonze                   | Her                                     |   2013 | USA       |
 | Takehiko Inoue                | The First Slam Dunk                     |   2022 | JPN       |
+| Ti West                       | X                                       |   2022 | USA       |
 | Tom Gormican                  | The Unbearable Weight of Massive Talent |   2022 | USA       |
 
 <details>
