@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 65
-- Movies in my collection: 31 (47.7%)
-- Last movie I saw: X - Ti West
+- Movies I've seen: 66
+- Movies in my collection: 32 (48.5%)
+- Last movie I saw: The Others - Alejandro Amenábar
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -26,10 +26,11 @@
 | Denis Villeneuve     | Arrival                               |   2016 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (24 movies)
+#### Good (25 movies)
 
 | Director                      | Title                                   |   Year | Country   |
 |:------------------------------|:----------------------------------------|-------:|:----------|
+| Alejandro Amenábar            | The Others                              |   2001 | ESP       |
 | Alejandro Amenábar            | Tesis                                   |   1996 | ESP       |
 | Edward Berger                 | All Quiet on the Western Front          |   2022 | DEU       |
 | Ethan Coen, Joel Coen         | No Country for Old Men                  |   2007 | USA       |
