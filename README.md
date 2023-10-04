@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 66
-- Movies in my collection: 32 (48.5%)
-- Last movie I saw: The Others - Alejandro Amenábar
+- Movies I've seen: 67
+- Movies in my collection: 32 (47.8%)
+- Last movie I saw: Halloween - John Carpenter
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -57,14 +57,14 @@
 | Tom Gormican                  | The Unbearable Weight of Massive Talent |   2022 | USA       |
 
 <details>
-<summary>Not for me (34 movies)</summary>
+<summary>Not for me (35 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
 | Alfonso Cuarón                     | Harry Potter and the Prisoner of Azkaban          |   2004 | GBR       |
 | Brad Bird                          | Ratatouille                                       |   2007 | USA       |
-| Brandon Cronenberg                 | Infinity Pool                                     |   2023 | CAN       |
 | Brandon Cronenberg                 | Possessor                                         |   2020 | CAN       |
+| Brandon Cronenberg                 | Infinity Pool                                     |   2023 | CAN       |
 | Carlota Pereda                     | Cerdita                                           |   2022 | ESP       |
 | Chris Buck, Jennifer Lee           | Frozen                                            |   2013 | USA       |
 | Christopher Nolan                  | Oppenheimer                                       |   2023 | USA       |
@@ -82,8 +82,9 @@
 | Jalmari Helander                   | Sisu                                              |   2022 | FIN       |
 | James Cameron                      | The Terminator                                    |   1984 | USA       |
 | James Mangold                      | Indiana Jones and the Dial of Destiny             |   2023 | USA       |
-| John Krasinski                     | A Quiet Place Part II                             |   2020 | USA       |
+| John Carpenter                     | Halloween                                         |   1978 | USA       |
 | John Krasinski                     | A Quiet Place                                     |   2018 | USA       |
+| John Krasinski                     | A Quiet Place Part II                             |   2020 | USA       |
 | Juan Felipe Orozco                 | Los iniciados                                     |   2023 | COL       |
 | Kinji Fukasaku                     | Battle Royale                                     |   2000 | JPN       |
 | Lee Cronin                         | Evil Dead Rise                                    |   2023 | USA       |
