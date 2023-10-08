@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 67
-- Movies in my collection: 32 (47.8%)
-- Last movie I saw: Halloween - John Carpenter
+- Movies I've seen: 69
+- Movies in my collection: 34 (49.3%)
+- Last movie I saw: Pearl - Ti West
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -26,12 +26,13 @@
 | Denis Villeneuve     | Arrival                               |   2016 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (25 movies)
+#### Good (27 movies)
 
 | Director                      | Title                                   |   Year | Country   |
 |:------------------------------|:----------------------------------------|-------:|:----------|
 | Alejandro Amenábar            | The Others                              |   2001 | ESP       |
 | Alejandro Amenábar            | Tesis                                   |   1996 | ESP       |
+| Bennett Miller                | Moneyball                               |   2011 | USA       |
 | Edward Berger                 | All Quiet on the Western Front          |   2022 | DEU       |
 | Ethan Coen, Joel Coen         | No Country for Old Men                  |   2007 | USA       |
 | Florian Zeller                | The Father                              |   2020 | GBR       |
@@ -54,6 +55,7 @@
 | Spike Jonze                   | Her                                     |   2013 | USA       |
 | Takehiko Inoue                | The First Slam Dunk                     |   2022 | JPN       |
 | Ti West                       | X                                       |   2022 | USA       |
+| Ti West                       | Pearl                                   |   2022 | USA       |
 | Tom Gormican                  | The Unbearable Weight of Massive Talent |   2022 | USA       |
 
 <details>
