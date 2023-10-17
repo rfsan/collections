@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 69
-- Movies in my collection: 34 (49.3%)
-- Last movie I saw: Pearl - Ti West
+- Movies I've seen: 71
+- Movies in my collection: 35 (49.3%)
+- Last movie I saw: Tár - Todd Field
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -26,7 +26,7 @@
 | Denis Villeneuve     | Arrival                               |   2016 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (27 movies)
+#### Good (28 movies)
 
 | Director                      | Title                                   |   Year | Country   |
 |:------------------------------|:----------------------------------------|-------:|:----------|
@@ -56,10 +56,11 @@
 | Takehiko Inoue                | The First Slam Dunk                     |   2022 | JPN       |
 | Ti West                       | X                                       |   2022 | USA       |
 | Ti West                       | Pearl                                   |   2022 | USA       |
+| Todd Field                    | Tár                                     |   2022 | USA       |
 | Tom Gormican                  | The Unbearable Weight of Massive Talent |   2022 | USA       |
 
 <details>
-<summary>Not for me (35 movies)</summary>
+<summary>Not for me (36 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
@@ -72,8 +73,9 @@
 | Christopher Nolan                  | Oppenheimer                                       |   2023 | USA       |
 | Colbert García                     | Silencio en el paraíso                            |   2011 | COL       |
 | Darren Aronofsky                   | The Whale                                         |   2022 | USA       |
-| David Yates                        | Harry Potter and the Half-Blood Prince            |   2009 | GBR       |
 | David Yates                        | Harry Potter and the Order of the Phoenix         |   2007 | GBR       |
+| David Yates                        | Harry Potter and the Half-Blood Prince            |   2009 | GBR       |
+| David Yates                        | Harry Potter and the Deathly Hallows - Part 1     |   2010 | GBR       |
 | Dean Fleischer-Camp                | Marcel the Shell with Shoes On                    |   2021 | USA       |
 | Denis Villeneuve                   | Sicario                                           |   2015 | USA       |
 | Edgar Wright                       | Shaun of the Dead                                 |   2004 | GBR       |
