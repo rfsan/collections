@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 76
-- Movies in my collection: 40 (52.6%)
-- Last movie I saw: The Godfather - Francis Ford Coppola
+- Movies I've seen: 79
+- Movies in my collection: 41 (51.9%)
+- Last movie I saw: Leave the World Behind - Sam Esmail
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -27,12 +27,12 @@
 | Francis Ford Coppola | The Godfather                         |   1972 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (32 movies)
+#### Good (33 movies)
 
 | Director                           | Title                                   |   Year | Country   |
 |:-----------------------------------|:----------------------------------------|-------:|:----------|
-| Alejandro Amenábar                 | Tesis                                   |   1996 | ESP       |
 | Alejandro Amenábar                 | The Others                              |   2001 | ESP       |
+| Alejandro Amenábar                 | Tesis                                   |   1996 | ESP       |
 | Bennett Miller                     | Moneyball                               |   2011 | USA       |
 | Danny Philippou, Michael Philippou | Talk to Me                              |   2022 | AUS       |
 | David Fincher                      | Fight Club                              |   1999 | USA       |
@@ -56,6 +56,7 @@
 | Quentin Tarantino                  | Reservoir Dogs                          |   1992 | USA       |
 | Ridley Scott                       | Gladiator                               |   2000 | USA       |
 | Robert Zemeckis                    | Back to the Future                      |   1985 | USA       |
+| Sam Esmail                         | Leave the World Behind                  |   2023 | USA       |
 | Santiago Mitre                     | Argentina, 1985                         |   2022 | ARG       |
 | Spike Jonze                        | Her                                     |   2013 | USA       |
 | Takehiko Inoue                     | The First Slam Dunk                     |   2022 | JPN       |
@@ -65,7 +66,7 @@
 | Tom Gormican                       | The Unbearable Weight of Massive Talent |   2022 | USA       |
 
 <details>
-<summary>Not for me (36 movies)</summary>
+<summary>Not for me (38 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
@@ -78,9 +79,9 @@
 | Christopher Nolan                  | Oppenheimer                                       |   2023 | USA       |
 | Colbert García                     | Silencio en el paraíso                            |   2011 | COL       |
 | Darren Aronofsky                   | The Whale                                         |   2022 | USA       |
-| David Yates                        | Harry Potter and the Order of the Phoenix         |   2007 | GBR       |
-| David Yates                        | Harry Potter and the Half-Blood Prince            |   2009 | GBR       |
 | David Yates                        | Harry Potter and the Deathly Hallows - Part 1     |   2010 | GBR       |
+| David Yates                        | Harry Potter and the Half-Blood Prince            |   2009 | GBR       |
+| David Yates                        | Harry Potter and the Order of the Phoenix         |   2007 | GBR       |
 | Dean Fleischer-Camp                | Marcel the Shell with Shoes On                    |   2021 | USA       |
 | Denis Villeneuve                   | Sicario                                           |   2015 | USA       |
 | Edgar Wright                       | Shaun of the Dead                                 |   2004 | GBR       |
@@ -88,12 +89,13 @@
 | Greta Gerwig                       | Barbie                                            |   2023 | USA       |
 | Guillermo del Toro, Mark Gustafson | Guillermo del Toro's Pinocchio                    |   2022 | USA       |
 | Hideo Nakata                       | Ringu                                             |   1998 | JPN       |
+| Ilya Naishuller                    | Nobody                                            |   2021 | USA       |
 | Jalmari Helander                   | Sisu                                              |   2022 | FIN       |
 | James Cameron                      | The Terminator                                    |   1984 | USA       |
 | James Mangold                      | Indiana Jones and the Dial of Destiny             |   2023 | USA       |
 | John Carpenter                     | Halloween                                         |   1978 | USA       |
-| John Krasinski                     | A Quiet Place                                     |   2018 | USA       |
 | John Krasinski                     | A Quiet Place Part II                             |   2020 | USA       |
+| John Krasinski                     | A Quiet Place                                     |   2018 | USA       |
 | Juan Felipe Orozco                 | Los iniciados                                     |   2023 | COL       |
 | Kinji Fukasaku                     | Battle Royale                                     |   2000 | JPN       |
 | Lee Cronin                         | Evil Dead Rise                                    |   2023 | USA       |
@@ -101,8 +103,9 @@
 | Mike Newell                        | Harry Potter and the Goblet of Fire               |   2005 | GBR       |
 | Oliver Stone                       | Snowden                                           |   2016 | USA       |
 | Peter Jackson                      | The Lord of the Rings: The Fellowship of the Ring |   2001 | NZL       |
-| Ridley Scott                       | Alien                                             |   1979 | USA       |
+| Ridley Scott                       | Napoleon                                          |   2023 | USA       |
 | Ridley Scott                       | The Martian                                       |   2015 | USA       |
+| Ridley Scott                       | Alien                                             |   1979 | USA       |
 | Ruben Östlund                      | Triangle of Sadness                               |   2022 | SWE       |
 | Wes Anderson                       | Asteroid City                                     |   2023 | USA       |
 </details>
