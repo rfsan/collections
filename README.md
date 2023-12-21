@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 79
-- Movies in my collection: 41 (51.9%)
-- Last movie I saw: Leave the World Behind - Sam Esmail
+- Movies I've seen: 80
+- Movies in my collection: 42 (52.5%)
+- Last movie I saw: Pulp Fiction - Quentin Tarantino
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -27,12 +27,12 @@
 | Francis Ford Coppola | The Godfather                         |   1972 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (33 movies)
+#### Good (34 movies)
 
 | Director                           | Title                                   |   Year | Country   |
 |:-----------------------------------|:----------------------------------------|-------:|:----------|
-| Alejandro Amenábar                 | The Others                              |   2001 | ESP       |
 | Alejandro Amenábar                 | Tesis                                   |   1996 | ESP       |
+| Alejandro Amenábar                 | The Others                              |   2001 | ESP       |
 | Bennett Miller                     | Moneyball                               |   2011 | USA       |
 | Danny Philippou, Michael Philippou | Talk to Me                              |   2022 | AUS       |
 | David Fincher                      | Fight Club                              |   1999 | USA       |
@@ -54,6 +54,7 @@
 | Peter Sohn                         | Elemental                               |   2023 | USA       |
 | Quentin Tarantino                  | The Hateful Eight                       |   2015 | USA       |
 | Quentin Tarantino                  | Reservoir Dogs                          |   1992 | USA       |
+| Quentin Tarantino                  | Pulp Fiction                            |   1994 | USA       |
 | Ridley Scott                       | Gladiator                               |   2000 | USA       |
 | Robert Zemeckis                    | Back to the Future                      |   1985 | USA       |
 | Sam Esmail                         | Leave the World Behind                  |   2023 | USA       |
