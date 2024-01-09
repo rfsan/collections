@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 80
-- Movies in my collection: 42 (52.5%)
-- Last movie I saw: Pulp Fiction - Quentin Tarantino
+- Movies I've seen: 84
+- Movies in my collection: 46 (54.8%)
+- Last movie I saw: Spider-Man: Across the Spider-Verse - Joaquim Dos Santos, Kemp Powers, Justin K. Thompson
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -27,44 +27,48 @@
 | Francis Ford Coppola | The Godfather                         |   1972 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (34 movies)
+#### Good (38 movies)
 
-| Director                           | Title                                   |   Year | Country   |
-|:-----------------------------------|:----------------------------------------|-------:|:----------|
-| Alejandro Amenábar                 | Tesis                                   |   1996 | ESP       |
-| Alejandro Amenábar                 | The Others                              |   2001 | ESP       |
-| Bennett Miller                     | Moneyball                               |   2011 | USA       |
-| Danny Philippou, Michael Philippou | Talk to Me                              |   2022 | AUS       |
-| David Fincher                      | Fight Club                              |   1999 | USA       |
-| David Fincher                      | Se7en                                   |   1995 | USA       |
-| Edward Berger                      | All Quiet on the Western Front          |   2022 | DEU       |
-| Ethan Coen, Joel Coen              | No Country for Old Men                  |   2007 | USA       |
-| Florian Zeller                     | The Father                              |   2020 | GBR       |
-| George Miller                      | Mad Max: Fury Road                      |   2015 | AUS       |
-| James Ward Byrkit                  | Coherence                               |   2013 | USA       |
-| Joel Crawford, Januel Mercado      | Puss in Boots: The Last Wish            |   2022 | USA       |
-| Jordan Peele                       | Nope                                    |   2022 | USA       |
-| Julia Ducournau                    | Titane                                  |   2021 | FRA       |
-| Junta Yamaguchi                    | Beyond the Infinite Two Minutes         |   2020 | JPN       |
-| Lars von Trier                     | The House That Jack Built               |   2018 | DNK       |
-| Martin Scorsese                    | The Wolf of Wall Street                 |   2013 | USA       |
-| Park Chan-wook                     | Decision to Leave                       |   2022 | KOR       |
-| Patrick Brice                      | Creep                                   |   2014 | USA       |
-| Paul Thomas Anderson               | There will be blood                     |   2007 | USA       |
-| Peter Sohn                         | Elemental                               |   2023 | USA       |
-| Quentin Tarantino                  | The Hateful Eight                       |   2015 | USA       |
-| Quentin Tarantino                  | Reservoir Dogs                          |   1992 | USA       |
-| Quentin Tarantino                  | Pulp Fiction                            |   1994 | USA       |
-| Ridley Scott                       | Gladiator                               |   2000 | USA       |
-| Robert Zemeckis                    | Back to the Future                      |   1985 | USA       |
-| Sam Esmail                         | Leave the World Behind                  |   2023 | USA       |
-| Santiago Mitre                     | Argentina, 1985                         |   2022 | ARG       |
-| Spike Jonze                        | Her                                     |   2013 | USA       |
-| Takehiko Inoue                     | The First Slam Dunk                     |   2022 | JPN       |
-| Ti West                            | X                                       |   2022 | USA       |
-| Ti West                            | Pearl                                   |   2022 | USA       |
-| Todd Field                         | Tár                                     |   2022 | USA       |
-| Tom Gormican                       | The Unbearable Weight of Massive Talent |   2022 | USA       |
+| Director                                            | Title                                   |   Year | Country   |
+|:----------------------------------------------------|:----------------------------------------|-------:|:----------|
+| Alejandro Amenábar                                  | Tesis                                   |   1996 | ESP       |
+| Alejandro Amenábar                                  | The Others                              |   2001 | ESP       |
+| Bennett Miller                                      | Moneyball                               |   2011 | USA       |
+| Bob Persichetti, Peter Ramsey, Rodney Rothman       | Spider-Man: Into the Spider-Verse       |   2018 | USA       |
+| Danny Philippou, Michael Philippou                  | Talk to Me                              |   2022 | AUS       |
+| David Fincher                                       | Fight Club                              |   1999 | USA       |
+| David Fincher                                       | Se7en                                   |   1995 | USA       |
+| Edward Berger                                       | All Quiet on the Western Front          |   2022 | DEU       |
+| Ethan Coen, Joel Coen                               | No Country for Old Men                  |   2007 | USA       |
+| Florian Zeller                                      | The Father                              |   2020 | GBR       |
+| George Miller                                       | Mad Max: Fury Road                      |   2015 | AUS       |
+| J.A. Bayona                                         | La sociedad de la nieve                 |   2023 | ESP       |
+| James Ward Byrkit                                   | Coherence                               |   2013 | USA       |
+| Joaquim Dos Santos, Kemp Powers, Justin K. Thompson | Spider-Man: Across the Spider-Verse     |   2023 | USA       |
+| Joel Crawford, Januel Mercado                       | Puss in Boots: The Last Wish            |   2022 | USA       |
+| Jordan Peele                                        | Nope                                    |   2022 | USA       |
+| Julia Ducournau                                     | Titane                                  |   2021 | FRA       |
+| Junta Yamaguchi                                     | Beyond the Infinite Two Minutes         |   2020 | JPN       |
+| Lars von Trier                                      | The House That Jack Built               |   2018 | DNK       |
+| Martin Scorsese                                     | The Wolf of Wall Street                 |   2013 | USA       |
+| Matt Johnson                                        | BlackBerry                              |   2023 | CAN       |
+| Park Chan-wook                                      | Decision to Leave                       |   2022 | KOR       |
+| Patrick Brice                                       | Creep                                   |   2014 | USA       |
+| Paul Thomas Anderson                                | There will be blood                     |   2007 | USA       |
+| Peter Sohn                                          | Elemental                               |   2023 | USA       |
+| Quentin Tarantino                                   | Reservoir Dogs                          |   1992 | USA       |
+| Quentin Tarantino                                   | Pulp Fiction                            |   1994 | USA       |
+| Quentin Tarantino                                   | The Hateful Eight                       |   2015 | USA       |
+| Ridley Scott                                        | Gladiator                               |   2000 | USA       |
+| Robert Zemeckis                                     | Back to the Future                      |   1985 | USA       |
+| Sam Esmail                                          | Leave the World Behind                  |   2023 | USA       |
+| Santiago Mitre                                      | Argentina, 1985                         |   2022 | ARG       |
+| Spike Jonze                                         | Her                                     |   2013 | USA       |
+| Takehiko Inoue                                      | The First Slam Dunk                     |   2022 | JPN       |
+| Ti West                                             | X                                       |   2022 | USA       |
+| Ti West                                             | Pearl                                   |   2022 | USA       |
+| Todd Field                                          | Tár                                     |   2022 | USA       |
+| Tom Gormican                                        | The Unbearable Weight of Massive Talent |   2022 | USA       |
 
 <details>
 <summary>Not for me (38 movies)</summary>
