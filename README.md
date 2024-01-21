@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 84
-- Movies in my collection: 46 (54.8%)
-- Last movie I saw: Spider-Man: Across the Spider-Verse - Joaquim Dos Santos, Kemp Powers, Justin K. Thompson
+- Movies I've seen: 86
+- Movies in my collection: 47 (54.7%)
+- Last movie I saw: Saltburn - Emerald Fennell
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -27,7 +27,7 @@
 | Francis Ford Coppola | The Godfather                         |   1972 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (38 movies)
+#### Good (39 movies)
 
 | Director                                            | Title                                   |   Year | Country   |
 |:----------------------------------------------------|:----------------------------------------|-------:|:----------|
@@ -57,12 +57,13 @@
 | Paul Thomas Anderson                                | There will be blood                     |   2007 | USA       |
 | Peter Sohn                                          | Elemental                               |   2023 | USA       |
 | Quentin Tarantino                                   | Reservoir Dogs                          |   1992 | USA       |
-| Quentin Tarantino                                   | Pulp Fiction                            |   1994 | USA       |
 | Quentin Tarantino                                   | The Hateful Eight                       |   2015 | USA       |
+| Quentin Tarantino                                   | Pulp Fiction                            |   1994 | USA       |
 | Ridley Scott                                        | Gladiator                               |   2000 | USA       |
 | Robert Zemeckis                                     | Back to the Future                      |   1985 | USA       |
 | Sam Esmail                                          | Leave the World Behind                  |   2023 | USA       |
 | Santiago Mitre                                      | Argentina, 1985                         |   2022 | ARG       |
+| Sidney Lumet                                        | Network                                 |   1976 | USA       |
 | Spike Jonze                                         | Her                                     |   2013 | USA       |
 | Takehiko Inoue                                      | The First Slam Dunk                     |   2022 | JPN       |
 | Ti West                                             | X                                       |   2022 | USA       |
@@ -71,7 +72,7 @@
 | Tom Gormican                                        | The Unbearable Weight of Massive Talent |   2022 | USA       |
 
 <details>
-<summary>Not for me (38 movies)</summary>
+<summary>Not for me (39 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
@@ -90,6 +91,7 @@
 | Dean Fleischer-Camp                | Marcel the Shell with Shoes On                    |   2021 | USA       |
 | Denis Villeneuve                   | Sicario                                           |   2015 | USA       |
 | Edgar Wright                       | Shaun of the Dead                                 |   2004 | GBR       |
+| Emerald Fennell                    | Saltburn                                          |   2023 | GBR       |
 | Fabrice Éboué                      | Some Like It Rare                                 |   2021 | FRA       |
 | Greta Gerwig                       | Barbie                                            |   2023 | USA       |
 | Guillermo del Toro, Mark Gustafson | Guillermo del Toro's Pinocchio                    |   2022 | USA       |
@@ -99,8 +101,8 @@
 | James Cameron                      | The Terminator                                    |   1984 | USA       |
 | James Mangold                      | Indiana Jones and the Dial of Destiny             |   2023 | USA       |
 | John Carpenter                     | Halloween                                         |   1978 | USA       |
-| John Krasinski                     | A Quiet Place Part II                             |   2020 | USA       |
 | John Krasinski                     | A Quiet Place                                     |   2018 | USA       |
+| John Krasinski                     | A Quiet Place Part II                             |   2020 | USA       |
 | Juan Felipe Orozco                 | Los iniciados                                     |   2023 | COL       |
 | Kinji Fukasaku                     | Battle Royale                                     |   2000 | JPN       |
 | Lee Cronin                         | Evil Dead Rise                                    |   2023 | USA       |
@@ -108,9 +110,9 @@
 | Mike Newell                        | Harry Potter and the Goblet of Fire               |   2005 | GBR       |
 | Oliver Stone                       | Snowden                                           |   2016 | USA       |
 | Peter Jackson                      | The Lord of the Rings: The Fellowship of the Ring |   2001 | NZL       |
+| Ridley Scott                       | Alien                                             |   1979 | USA       |
 | Ridley Scott                       | Napoleon                                          |   2023 | USA       |
 | Ridley Scott                       | The Martian                                       |   2015 | USA       |
-| Ridley Scott                       | Alien                                             |   1979 | USA       |
 | Ruben Östlund                      | Triangle of Sadness                               |   2022 | SWE       |
 | Wes Anderson                       | Asteroid City                                     |   2023 | USA       |
 </details>
