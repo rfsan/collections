@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 86
-- Movies in my collection: 47 (54.7%)
-- Last movie I saw: Saltburn - Emerald Fennell
+- Movies I've seen: 88
+- Movies in my collection: 48 (54.5%)
+- Last movie I saw: Poor Things - Yorgos Lanthimos
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -27,7 +27,7 @@
 | Francis Ford Coppola | The Godfather                         |   1972 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (39 movies)
+#### Good (40 movies)
 
 | Director                                            | Title                                   |   Year | Country   |
 |:----------------------------------------------------|:----------------------------------------|-------:|:----------|
@@ -36,8 +36,8 @@
 | Bennett Miller                                      | Moneyball                               |   2011 | USA       |
 | Bob Persichetti, Peter Ramsey, Rodney Rothman       | Spider-Man: Into the Spider-Verse       |   2018 | USA       |
 | Danny Philippou, Michael Philippou                  | Talk to Me                              |   2022 | AUS       |
-| David Fincher                                       | Fight Club                              |   1999 | USA       |
 | David Fincher                                       | Se7en                                   |   1995 | USA       |
+| David Fincher                                       | Fight Club                              |   1999 | USA       |
 | Edward Berger                                       | All Quiet on the Western Front          |   2022 | DEU       |
 | Ethan Coen, Joel Coen                               | No Country for Old Men                  |   2007 | USA       |
 | Florian Zeller                                      | The Father                              |   2020 | GBR       |
@@ -56,8 +56,8 @@
 | Patrick Brice                                       | Creep                                   |   2014 | USA       |
 | Paul Thomas Anderson                                | There will be blood                     |   2007 | USA       |
 | Peter Sohn                                          | Elemental                               |   2023 | USA       |
-| Quentin Tarantino                                   | Reservoir Dogs                          |   1992 | USA       |
 | Quentin Tarantino                                   | The Hateful Eight                       |   2015 | USA       |
+| Quentin Tarantino                                   | Reservoir Dogs                          |   1992 | USA       |
 | Quentin Tarantino                                   | Pulp Fiction                            |   1994 | USA       |
 | Ridley Scott                                        | Gladiator                               |   2000 | USA       |
 | Robert Zemeckis                                     | Back to the Future                      |   1985 | USA       |
@@ -70,9 +70,10 @@
 | Ti West                                             | Pearl                                   |   2022 | USA       |
 | Todd Field                                          | Tár                                     |   2022 | USA       |
 | Tom Gormican                                        | The Unbearable Weight of Massive Talent |   2022 | USA       |
+| Yorgos Lanthimos                                    | Poor Things                             |   2023 | GBR       |
 
 <details>
-<summary>Not for me (39 movies)</summary>
+<summary>Not for me (40 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
@@ -114,6 +115,7 @@
 | Ridley Scott                       | Napoleon                                          |   2023 | USA       |
 | Ridley Scott                       | The Martian                                       |   2015 | USA       |
 | Ruben Östlund                      | Triangle of Sadness                               |   2022 | SWE       |
+| Takashi Miike                      | Audition                                          |   1999 | JPN       |
 | Wes Anderson                       | Asteroid City                                     |   2023 | USA       |
 </details>
 
