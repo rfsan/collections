@@ -2,9 +2,9 @@
 
 ## Movies
 
-- Movies I've seen: 88
-- Movies in my collection: 48 (54.5%)
-- Last movie I saw: Poor Things - Yorgos Lanthimos
+- Movies I've seen: 91
+- Movies in my collection: 50 (54.9%)
+- Last movie I saw: The Texas Chain Saw Massacre - Tobe Hooper
 - I've seen movies from 15 countries
 
 ### Ranked
@@ -27,7 +27,7 @@
 | Francis Ford Coppola | The Godfather                         |   1972 | USA       |
 | Michel Gondry        | Eternal Sunshine of the Spotless Mind |   2004 | USA       |
 
-#### Good (40 movies)
+#### Good (42 movies)
 
 | Director                                            | Title                                   |   Year | Country   |
 |:----------------------------------------------------|:----------------------------------------|-------:|:----------|
@@ -35,9 +35,10 @@
 | Alejandro Amenábar                                  | The Others                              |   2001 | ESP       |
 | Bennett Miller                                      | Moneyball                               |   2011 | USA       |
 | Bob Persichetti, Peter Ramsey, Rodney Rothman       | Spider-Man: Into the Spider-Verse       |   2018 | USA       |
+| Chad Stahelski, David Leitch                        | John Wick                               |   2014 | USA       |
 | Danny Philippou, Michael Philippou                  | Talk to Me                              |   2022 | AUS       |
-| David Fincher                                       | Se7en                                   |   1995 | USA       |
 | David Fincher                                       | Fight Club                              |   1999 | USA       |
+| David Fincher                                       | Se7en                                   |   1995 | USA       |
 | Edward Berger                                       | All Quiet on the Western Front          |   2022 | DEU       |
 | Ethan Coen, Joel Coen                               | No Country for Old Men                  |   2007 | USA       |
 | Florian Zeller                                      | The Father                              |   2020 | GBR       |
@@ -49,6 +50,7 @@
 | Jordan Peele                                        | Nope                                    |   2022 | USA       |
 | Julia Ducournau                                     | Titane                                  |   2021 | FRA       |
 | Junta Yamaguchi                                     | Beyond the Infinite Two Minutes         |   2020 | JPN       |
+| Justine Triet                                       | Anatomy of a Fall                       |   2023 | FRA       |
 | Lars von Trier                                      | The House That Jack Built               |   2018 | DNK       |
 | Martin Scorsese                                     | The Wolf of Wall Street                 |   2013 | USA       |
 | Matt Johnson                                        | BlackBerry                              |   2023 | CAN       |
@@ -57,8 +59,8 @@
 | Paul Thomas Anderson                                | There will be blood                     |   2007 | USA       |
 | Peter Sohn                                          | Elemental                               |   2023 | USA       |
 | Quentin Tarantino                                   | The Hateful Eight                       |   2015 | USA       |
-| Quentin Tarantino                                   | Reservoir Dogs                          |   1992 | USA       |
 | Quentin Tarantino                                   | Pulp Fiction                            |   1994 | USA       |
+| Quentin Tarantino                                   | Reservoir Dogs                          |   1992 | USA       |
 | Ridley Scott                                        | Gladiator                               |   2000 | USA       |
 | Robert Zemeckis                                     | Back to the Future                      |   1985 | USA       |
 | Sam Esmail                                          | Leave the World Behind                  |   2023 | USA       |
@@ -66,21 +68,21 @@
 | Sidney Lumet                                        | Network                                 |   1976 | USA       |
 | Spike Jonze                                         | Her                                     |   2013 | USA       |
 | Takehiko Inoue                                      | The First Slam Dunk                     |   2022 | JPN       |
-| Ti West                                             | X                                       |   2022 | USA       |
 | Ti West                                             | Pearl                                   |   2022 | USA       |
+| Ti West                                             | X                                       |   2022 | USA       |
 | Todd Field                                          | Tár                                     |   2022 | USA       |
 | Tom Gormican                                        | The Unbearable Weight of Massive Talent |   2022 | USA       |
 | Yorgos Lanthimos                                    | Poor Things                             |   2023 | GBR       |
 
 <details>
-<summary>Not for me (40 movies)</summary>
+<summary>Not for me (41 movies)</summary>
 
 | Director                           | Title                                             |   Year | Country   |
 |:-----------------------------------|:--------------------------------------------------|-------:|:----------|
 | Alfonso Cuarón                     | Harry Potter and the Prisoner of Azkaban          |   2004 | GBR       |
 | Brad Bird                          | Ratatouille                                       |   2007 | USA       |
-| Brandon Cronenberg                 | Possessor                                         |   2020 | CAN       |
 | Brandon Cronenberg                 | Infinity Pool                                     |   2023 | CAN       |
+| Brandon Cronenberg                 | Possessor                                         |   2020 | CAN       |
 | Carlota Pereda                     | Cerdita                                           |   2022 | ESP       |
 | Chris Buck, Jennifer Lee           | Frozen                                            |   2013 | USA       |
 | Christopher Nolan                  | Oppenheimer                                       |   2023 | USA       |
@@ -102,8 +104,8 @@
 | James Cameron                      | The Terminator                                    |   1984 | USA       |
 | James Mangold                      | Indiana Jones and the Dial of Destiny             |   2023 | USA       |
 | John Carpenter                     | Halloween                                         |   1978 | USA       |
-| John Krasinski                     | A Quiet Place                                     |   2018 | USA       |
 | John Krasinski                     | A Quiet Place Part II                             |   2020 | USA       |
+| John Krasinski                     | A Quiet Place                                     |   2018 | USA       |
 | Juan Felipe Orozco                 | Los iniciados                                     |   2023 | COL       |
 | Kinji Fukasaku                     | Battle Royale                                     |   2000 | JPN       |
 | Lee Cronin                         | Evil Dead Rise                                    |   2023 | USA       |
@@ -111,11 +113,12 @@
 | Mike Newell                        | Harry Potter and the Goblet of Fire               |   2005 | GBR       |
 | Oliver Stone                       | Snowden                                           |   2016 | USA       |
 | Peter Jackson                      | The Lord of the Rings: The Fellowship of the Ring |   2001 | NZL       |
-| Ridley Scott                       | Alien                                             |   1979 | USA       |
-| Ridley Scott                       | Napoleon                                          |   2023 | USA       |
 | Ridley Scott                       | The Martian                                       |   2015 | USA       |
+| Ridley Scott                       | Napoleon                                          |   2023 | USA       |
+| Ridley Scott                       | Alien                                             |   1979 | USA       |
 | Ruben Östlund                      | Triangle of Sadness                               |   2022 | SWE       |
 | Takashi Miike                      | Audition                                          |   1999 | JPN       |
+| Tobe Hooper                        | The Texas Chain Saw Massacre                      |   1974 | USA       |
 | Wes Anderson                       | Asteroid City                                     |   2023 | USA       |
 </details>
 
